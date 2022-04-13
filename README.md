@@ -1,4 +1,4 @@
-#Hello, world! 
+# Hello, world! 
 - 👋 I’m @TiagoUniverse and i'm an enthusiast in learning code!
 - 👀 I’m interested in systems developments, game development and creation of applications!
 - 🌱 I’m currently learning the developments languages of PHP, java, HTML, MYSQL and POO.
